@@ -1,6 +1,6 @@
-package Jcars.Factory.GearBox;
+package OOPS.Jcars.Factory.GearBox;
 
-import Jcars.Utils.GearBox.GearBox;
+import OOPS.Jcars.Utils.GearBox.GearBox;
 
 public class Gear4 implements GearBox {
     private int gear = 0;

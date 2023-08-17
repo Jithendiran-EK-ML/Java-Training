@@ -1,6 +1,6 @@
-package Jcars.Factory.Streeing;
+package OOPS.Jcars.Factory.Streeing;
 
-import Jcars.Utils.Streeing.Handle;
+import OOPS.Jcars.Utils.Streeing.Handle;
 
 public abstract class Streeing implements Handle {
 

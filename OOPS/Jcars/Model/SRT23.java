@@ -1,6 +1,6 @@
-package Jcars.Model;
+package OOPS.Jcars.Model;
 
-import Jcars.Utils.GearBox.GearBox.Gear;
+import OOPS.Jcars.Utils.GearBox.GearBox.Gear;
 
 public class SRT23 extends SRT21 {
     public SRT23(){

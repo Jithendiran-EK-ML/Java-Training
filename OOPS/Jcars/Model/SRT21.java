@@ -1,10 +1,10 @@
-package Jcars.Model;
+package OOPS.Jcars.Model;
 
-import Jcars.Factory.Engine.V8;
-import Jcars.Factory.GearBox.Gear4;
-import Jcars.Factory.Streeing.Power;
-import Jcars.Utils.Car.Car;
-import Jcars.Utils.GearBox.GearBox.Gear;
+import OOPS.Jcars.Factory.Engine.V8;
+import OOPS.Jcars.Factory.GearBox.Gear4;
+import OOPS.Jcars.Factory.Streeing.Power;
+import OOPS.Jcars.Utils.Car.Car;
+import OOPS.Jcars.Utils.GearBox.GearBox.Gear;
 
 public class SRT21 extends V8 implements Car {
 

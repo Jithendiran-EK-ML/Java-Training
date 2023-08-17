@@ -1,4 +1,4 @@
-package Jcars.Factory.Streeing;
+package OOPS.Jcars.Factory.Streeing;
 
 public class Power extends Ordinary {
     private boolean isLocked;
